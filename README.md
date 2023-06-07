@@ -76,7 +76,7 @@ node fibonacci.js --check 1,3,6
   node .\fibonacci.js -h 
   >>> -h    --help     per mostrare questo menu 
   >>> -v    --version     per mostrare la versione 
-  >>> -s    -separator <char>     per specificare il separatore default= ,
+  >>> -s    --separator <char>     per specificare il separatore default= ,
   >>> -c    --check <list>     per specificare una lista da controllare 
   >>> -m    --make <int>     per specificare la lunghezza della sequenza da produrre 
   >>> -w    --write     pet scrivere la sequenza in un file sul desktop
