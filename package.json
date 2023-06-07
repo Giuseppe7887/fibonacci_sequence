@@ -2,7 +2,7 @@
   "name": "fibonacci",
   "version": "1.0.0",
   "description": "A simple software to create and check fibonacci's sequences",
-  "main": "main.js",
+  "main": "fibonacci.js",
   "keywords": [
     "fibonacci",
     "math"
